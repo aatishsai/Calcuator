@@ -13,9 +13,10 @@ int main()
     
 }
 */
+#include<math.h>
 
-void squareroot(float x)
+float squareroot(float x)
 {
-                 printf("The square root of given number %f is %f",x,sqrt(x));
+                 return sqrt(x);
                  
 }
