@@ -23,10 +23,10 @@ int main(){
 
 	printf("%f\n",fun_addition(x,y) );
 
-	printf("Product=",multi(x,y));
+	printf("Product=%d",multi(x,y));
 
 	printf("%s\n", );
 
-	//printf("%s\n", );
+	//printf("%s\n", );%
 	return 0;
 }
